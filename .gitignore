@@ -1,0 +1,6 @@
+.nuget/nuget.txt
+packages
+obj
+nuspec
+*.nuspec
+*packages.config
