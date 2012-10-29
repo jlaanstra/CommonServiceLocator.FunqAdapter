@@ -1,6 +1,13 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+
+# mstest test results
+TestResults
+*.nuspec
+*.suo
+*.nupkg
+*.user
 .nuget/nuget.txt
 packages
-obj
-nuspec
-*.nuspec
 *packages.config
