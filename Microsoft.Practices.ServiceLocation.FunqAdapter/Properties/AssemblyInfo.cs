@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CommonServiceLocator.FunqAdapter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("ServiceLocator adapter for the Funq DI container.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Johan Laanstra")]
 [assembly: AssemblyProduct("CommonServiceLocator.FunqAdapter")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
